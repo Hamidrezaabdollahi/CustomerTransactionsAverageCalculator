@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "BYekan";
+    src: url("./Yekan.woff") format('woff');
+};
+
+@font-face {
+    font-family: "BYekan";
+    src: url("./Yekan.woff2") format('woff2');
+};
+
+@font-face {
+    font-family: "BYekan";
+    src: url("./Yekan.eot") format('eot');
+};
+
+@font-face {
+    font-family: "BYekan";
+    src: url("./Yekan.ttf") format('.ttf');
+};
+
+

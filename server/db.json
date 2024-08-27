@@ -1,0 +1,586 @@
+{
+  "users": [
+    {
+      "userId": "1362811149",
+      "userFirstName": "حمیدرضا",
+      "userLastName": "عبداللهی",
+      "fatherName": "علی",
+      "stockId": "ع ژ س ۸۱۵۶۰",
+      "mobile": "09227240818",
+      "telephone": "0415283246",
+      "birthday": "1379/05/05",
+      "signUpDay": "1402/04/10",
+      "transactions": [
+        {
+          "date": "1403/04/12",
+          "stockSymbol": "شتران",
+          "transactionType": "buy",
+          "price": "36643",
+          "quantity": "1",
+          "total": "36643",
+          "assetType": "stock",
+          "transactionId": "547852321"
+        },
+        {
+          "date": "1403/03/14",
+          "stockSymbol": "خساپا",
+          "transactionType": "sell",
+          "price": "124533",
+          "quantity": "1",
+          "total": "124533",
+          "assetType": "stock",
+          "transactionId": "547852342"
+        },
+        {
+          "date": "1402/09/19",
+          "stockSymbol": "کمند",
+          "transactionType": "buy",
+          "price": "25463",
+          "quantity": "1",
+          "total": "25463",
+          "assetType": "fund",
+          "transactionId": "547852345"
+        },
+        {
+          "date": "1402/09/25",
+          "stockSymbol": "رمپنا",
+          "transactionType": "sell",
+          "price": "20387",
+          "quantity": "1000",
+          "total": "20387000",
+          "assetType": "stock",
+          "transactionId": "547852347"
+        },
+        {
+          "date": "1402/09/30",
+          "stockSymbol": "خودرو",
+          "transactionType": "buy",
+          "price": "4256",
+          "quantity": "100",
+          "total": "425600",
+          "assetType": "stock",
+          "transactionId": "547852348"
+        },
+        {
+          "date": "1402/10/01",
+          "stockSymbol": "اهرم",
+          "transactionType": "sell",
+          "price": "19324",
+          "quantity": "100",
+          "total": "1932400",
+          "assetType": "fund",
+          "transactionId": "547852349"
+        },
+        {
+          "date": "1402/10/04",
+          "stockSymbol": "غچین",
+          "transactionType": "sell",
+          "price": "1000",
+          "quantity": "50",
+          "total": "50000",
+          "assetType": "stock",
+          "transactionId": "547852350"
+        },
+        {
+          "date": "1402/10/06",
+          "stockSymbol": "حکشتی",
+          "transactionType": "buy",
+          "price": "3000",
+          "quantity": "9",
+          "total": "27000",
+          "assetType": "stock",
+          "transactionId": "547852351"
+        },
+        {
+          "date": "1402/10/09",
+          "stockSymbol": "عیار",
+          "transactionType": "buy",
+          "price": "20000",
+          "quantity": "50",
+          "total": "1000000",
+          "assetType": "fund",
+          "transactionId": "547852352"
+        }
+      ]
+    },
+    {
+      "userId": "4271396133",
+      "userFirstName": "امیرعباس",
+      "userLastName": "محمدلو",
+      "fatherName": "علیرضل",
+      "stockId": "ع ژ م ۸۵۰۱۲",
+      "mobile": "09125648094",
+      "telephone": "02154783987",
+      "birthday": "1379/06/01",
+      "signUpDay": "1402/06/12",
+      "transactions": [
+        {
+          "date": "1402/06/12",
+          "stockSymbol": "اهرم",
+          "transactionType": "buy",
+          "price": "1800",
+          "quantity": "100000",
+          "total": "18000000",
+          "assetType": "stock",
+          "transactionId": "147852349"
+        },
+        {
+          "date": "1402/06/18",
+          "stockSymbol": "حکشتی",
+          "transactionType": "sell",
+          "price": "36643",
+          "quantity": "561",
+          "total": "205603873",
+          "assetType": "stock",
+          "transactionId": "157852349"
+        },
+        {
+          "date": "1402/06/26",
+          "stockSymbol": "فولاد",
+          "transactionType": "sell",
+          "price": "36643",
+          "quantity": "1000",
+          "total": "36643000",
+          "assetType": "stock",
+          "transactionId": "167852349"
+        },
+        {
+          "date": "1402/06/27",
+          "stockSymbol": "رمپنا",
+          "transactionType": "buy",
+          "price": "142000",
+          "quantity": "500",
+          "total": "7100000",
+          "assetType": "stock",
+          "transactionId": "187852349"
+        },
+        {
+          "date": "1402/07/02",
+          "stockSymbol": "وغدیر",
+          "transactionType": "sell",
+          "price": "4206",
+          "quantity": "100",
+          "total": "420600",
+          "assetType": "stock",
+          "transactionId": "197852349"
+        },
+        {
+          "date": "1402/07/12",
+          "stockSymbol": "وسبحان",
+          "transactionType": "buy",
+          "price": "9800",
+          "quantity": "660",
+          "total": "6468000",
+          "assetType": "stock",
+          "transactionId": "207852349"
+        },
+        {
+          "date": "1402/07/19",
+          "stockSymbol": "شبندر",
+          "transactionType": "sell",
+          "price": "3245",
+          "quantity": "1000",
+          "total": "3245000",
+          "assetType": "stock",
+          "transactionId": "217852349"
+        },
+        {
+          "date": "1402/08/01",
+          "stockSymbol": "شگویا",
+          "transactionType": "sell",
+          "price": "36643",
+          "quantity": "279",
+          "total": "10223",
+          "assetType": "stock",
+          "transactionId": "227852349"
+        },
+        {
+          "date": "1402/08/04",
+          "stockSymbol": "عیار",
+          "transactionType": "buy",
+          "price": "2698",
+          "quantity": "166",
+          "total": "447868",
+          "assetType": "fund",
+          "transactionId": "237852349"
+        },
+        {
+          "date": "1402/08/15",
+          "stockSymbol": "جهش",
+          "transactionType": "sell",
+          "price": "2236",
+          "quantity": "100",
+          "total": "223600",
+          "assetType": "fund",
+          "transactionId": "247852349"
+        },
+        {
+          "date": "1402/08/25",
+          "stockSymbol": "فخوز",
+          "transactionType": "buy",
+          "price": "3245",
+          "quantity": "1000",
+          "total": "3245000",
+          "assetType": "stock",
+          "transactionId": "257852349"
+        },
+        {
+          "date": "1402/09/12",
+          "stockSymbol": "شتران",
+          "transactionType": "buy",
+          "price": "36643",
+          "quantity": "1",
+          "total": "36643",
+          "assetType": "stock",
+          "transactionId": "547852349"
+        },
+        {
+          "date": "1402/09/14",
+          "stockSymbol": "خساپا",
+          "transactionType": "sell",
+          "price": "124533",
+          "quantity": "1",
+          "total": "124533",
+          "assetType": "stock",
+          "transactionId": "547852342"
+        },
+        {
+          "date": "1402/09/25",
+          "stockSymbol": "اهرم",
+          "transactionType": "buy",
+          "price": "19324",
+          "quantity": "1",
+          "total": "19324",
+          "assetType": "fund",
+          "transactionId": "547852347"
+        },
+        {
+          "date": "1402/09/30",
+          "stockSymbol": "اهرم",
+          "transactionType": "buy",
+          "price": "1900",
+          "quantity": "1000",
+          "total": "1900000",
+          "assetType": "fund",
+          "transactionId": "557852345"
+        },
+        {
+          "date": "1402/10/04",
+          "stockSymbol": "اهرم",
+          "transactionType": "buy",
+          "price": "20105",
+          "quantity": "100",
+          "total": "2010500",
+          "assetType": "fund",
+          "transactionId": "567852345"
+        },
+        {
+          "date": "1402/10/14",
+          "stockSymbol": "جهش",
+          "transactionType": "sell",
+          "price": "17687",
+          "quantity": "100",
+          "total": "1768700",
+          "assetType": "fund",
+          "transactionId": "577852345"
+        }
+      ]
+    },
+    {
+      "userId": "1364758493",
+      "userFirstName": "علی",
+      "userLastName": "رضایی",
+      "fatherName": "چنگیز",
+      "stockId": "ف غ ذ ۸۷۹۸۴",
+      "mobile": "09126567384",
+      "telephone": "0616475645",
+      "birthday": "1376/01/18",
+      "signUpDay": "1402/02/12",
+      "transactions": [
+        {
+          "date": "1402/03/15",
+          "stockSymbol": "شتاب",
+          "transactionType": "buy",
+          "price": "7689",
+          "quantity": "10000",
+          "total": "76890000",
+          "assetType": "fund",
+          "transactionId": "307852349"
+        },
+        {
+          "date": "1403/01/18",
+          "stockSymbol": "غشهداب",
+          "transactionType": "sell",
+          "price": "65478",
+          "quantity": "1000",
+          "total": "65478000",
+          "assetType": "stock",
+          "transactionId": "317852349"
+        },
+        {
+          "date": "1402/06/21",
+          "stockSymbol": "فولاد",
+          "transactionType": "buy",
+          "price": "7890",
+          "quantity": "1000",
+          "total": "7890000",
+          "assetType": "stock",
+          "transactionId": "327852349"
+        },
+        {
+          "date": "1402/07/10",
+          "stockSymbol": "فلوله",
+          "transactionType": "sell",
+          "price": "6789",
+          "quantity": "987",
+          "total": "6700743",
+          "assetType": "stock",
+          "transactionId": "337852349"
+        },
+        {
+          "date": "1402/08/27",
+          "stockSymbol": "کارا",
+          "transactionType": "buy",
+          "price": "16789",
+          "quantity": "10000",
+          "total": "167890000",
+          "assetType": "fund",
+          "transactionId": "347852349"
+        },
+        {
+          "date": "1402/10/15",
+          "stockSymbol": "کهربا",
+          "transactionType": "sell",
+          "price": "26744",
+          "quantity": "1000",
+          "total": "26744000",
+          "assetType": "stock",
+          "transactionId": "207852349"
+        }
+       
+      ]
+    },
+    {
+      "userId": "5674859604",
+      "userFirstName": "ابولفضل",
+      "userLastName": "احمدی",
+      "fatherName": "جمشید",
+      "stockId": "ص ر ذ ۹۹۰۹۸",
+      "mobile": "09168374637",
+      "telephone": "02147384738",
+      "birthday": "1377/01/20",
+      "signUpDay": "1402/06/12",
+      "transactions": [
+        {
+          "date": "1402/06/14",
+          "stockSymbol": "کاریس",
+          "transactionType": "buy",
+          "price": "23463",
+          "quantity": "1000",
+          "total": "2346000",
+          "assetType": "fund",
+          "transactionId": "347852349"
+        },
+        {
+          "date": "1402/07/25",
+          "stockSymbol": "فلوله",
+          "transactionType": "sell",
+          "price": "4545",
+          "quantity": "1000",
+          "total": "4545000",
+          "assetType": "stock",
+          "transactionId": "357852349"
+        },
+        {
+          "date": "1402/08/21",
+          "stockSymbol": "شپنا",
+          "transactionType": "buy",
+          "price": "4533",
+          "quantity": "1000",
+          "total": "4533000",
+          "assetType": "stock",
+          "transactionId": "367852349"
+        },
+        {
+          "date": "1402/09/10",
+          "stockSymbol": "خپارس",
+          "transactionType": "buy",
+          "price": "3567",
+          "quantity": "987",
+          "total": "3520629",
+          "assetType": "stock",
+          "transactionId": "377852349"
+        },
+        {
+          "date": "1402/09/۱۶",
+          "stockSymbol": "کمند",
+          "transactionType": "buy",
+          "price": "16789",
+          "quantity": "10000",
+          "total": "167890000",
+          "assetType": "fund",
+          "transactionId": "387852349"
+        },
+        {
+          "date": "1402/10/15",
+          "stockSymbol": "عیار",
+          "transactionType": "sell",
+          "price": "26744",
+          "quantity": "1000",
+          "total": "26744000",
+          "assetType": "fund",
+          "transactionId": "397852349"
+        }
+       
+      ]
+    },
+    {
+      "userId": "0031360407",
+      "userFirstName": "سجاد",
+      "userLastName": "بیگوند",
+      "fatherName": "اصغر",
+      "stockId": "ر غ ز ۶۷۸۷۴",
+      "mobile": "09126300000",
+      "telephone": "02145400000",
+      "birthday": "1377/04/10",
+      "signUpDay": "1404/05/12",
+      "transactions": [
+        {
+          "date": "1402/07/01",
+          "stockSymbol": "کمند",
+          "transactionType": "buy",
+          "price": "100210",
+          "quantity": "10000",
+          "total": "1002100000",
+          "assetType": "fund",
+          "transactionId": "111852349"
+        },
+        {
+          "date": "1402/07/19",
+          "stockSymbol": "سفارس",
+          "transactionType": "buy",
+          "price": "31210",
+          "quantity": "1000",
+          "total": "31210000",
+          "assetType": "stock",
+          "transactionId": "112852349"
+        },
+        {
+          "date": "1402/08/25",
+          "stockSymbol": "دعبید",
+          "transactionType": "sell",
+          "price": "19800",
+          "quantity": "1000",
+          "total": "19800000",
+          "assetType": "stock",
+          "transactionId": "113852349"
+        },
+        {
+          "date": "1402/09/03",
+          "stockSymbol": "خودرو",
+          "transactionType": "sell",
+          "price": "6789",
+          "quantity": "100",
+          "total": "678900",
+          "assetType": "stock",
+          "transactionId": "1144852349"
+        },
+        {
+          "date": "1402/09/24",
+          "stockSymbol": "جهش",
+          "transactionType": "sell",
+          "price": "18299",
+          "quantity": "10000",
+          "total": "182990000",
+          "assetType": "fund",
+          "transactionId": "115852349"
+        },
+        {
+          "date": "1402/10/12",
+          "stockSymbol": "اهرم",
+          "transactionType": "buy",
+          "price": "20123",
+          "quantity": "1000",
+          "total": "20123000",
+          "assetType": "fund",
+          "transactionId": "116852349"
+        }
+       
+      ]
+    },
+    {
+      "userId": "1130500276",
+      "userFirstName": "محمد",
+      "userLastName": "قصری",
+      "fatherName": "مجید",
+      "stockId": "ف غ ذ ۸۵۸۵۸",
+      "mobile": "09220933623",
+      "telephone": "03137725269",
+      "birthday": "1378/09/10",
+      "signUpDay": "1401/12/12",
+      "transactions": [
+        {
+          "date": "1402/06/14",
+          "stockSymbol": "شتاب",
+          "transactionType": "buy",
+          "price": "7689",
+          "quantity": "10000",
+          "total": "76890000",
+          "assetType": "fund",
+          "transactionId": "307852349"
+        },
+        {
+          "date": "1402/07/19",
+          "stockSymbol": "غشهداب",
+          "transactionType": "sell",
+          "price": "65478",
+          "quantity": "1000",
+          "total": "65478000",
+          "assetType": "stock",
+          "transactionId": "317852349"
+        },
+        {
+          "date": "1402/08/21",
+          "stockSymbol": "فولاد",
+          "transactionType": "buy",
+          "price": "7890",
+          "quantity": "1000",
+          "total": "7890000",
+          "assetType": "stock",
+          "transactionId": "327852349"
+        },
+        {
+          "date": "1402/09/10",
+          "stockSymbol": "فلوله",
+          "transactionType": "sell",
+          "price": "6789",
+          "quantity": "987",
+          "total": "6700743",
+          "assetType": "stock",
+          "transactionId": "337852349"
+        },
+        {
+          "date": "1402/09/27",
+          "stockSymbol": "کارا",
+          "transactionType": "buy",
+          "price": "16789",
+          "quantity": "10000",
+          "total": "167890000",
+          "assetType": "fund",
+          "transactionId": "347852349"
+        },
+        {
+          "date": "1402/10/12",
+          "stockSymbol": "کهربا",
+          "transactionType": "sell",
+          "price": "26744",
+          "quantity": "1000",
+          "total": "26744000",
+          "assetType": "fund",
+          "transactionId": "207852349"
+        }
+       
+      ]
+    }
+  ]
+}
